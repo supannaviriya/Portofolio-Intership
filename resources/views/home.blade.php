@@ -37,52 +37,52 @@
   <div class="container overflow-hidden">
     <div class="row gx-2">
 
-      <div class="col-6">
-       <div class="text-center text-white p-4 border bg-dark">Time Management</div>
+      <div class="mt-2 col-6">
+       <div class="fs-4 text-center text-white p-4 border bg-dark">Time Management</div>
       </div>
 
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">SQL Server Management Studio</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">SQL Server Management Studio</div>
       </div>
 
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Critical Thinking</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Critical Thinking</div>
       </div>
     
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">C Programming</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">C Programming</div>
       </div>
 
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Public Speaking</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Public Speaking</div>
       </div>
 
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Laravel</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Laravel</div>
       </div>
       
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Problem Solving</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Problem Solving</div>
       </div>
       
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">HTML5, CSS, JavaScript</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">HTML5, CSS, JavaScript</div>
       </div>
       
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Teamwork</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Teamwork</div>
       </div>
       
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">R Programming</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">R Programming</div>
       </div>
    
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">leadership</div>
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">leadership</div>
       </div>
-         
-      <div class="col-6">
-        <div class="text-center text-white p-4 border bg-dark">Microsoft Word, Microsoft Excel, Microsoft Power Point</div>
+      
+      <div class="mt-2 col-6">
+        <div class="fs-4 text-center text-white p-4 border bg-dark">Microsoft Word, Microsoft Excel, Microsoft Power Point</div>
       </div>
     
     </div>

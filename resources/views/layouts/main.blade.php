@@ -44,46 +44,62 @@
       </div>
 
     <footer>
-    <div class="d-flex justify-content-between py-4 ml-4 border-top">
-      <div class="accordion" id="accordionExample">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingOne">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              <p>Contact Me!</p>  
-            </button>
-          </h2>
-          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-          
-          
-          <ul class="list-unstyled d-flex">
-           <p>Linkedin Profile</p>
-            <li class="ml-2"> <a href="http://linkedin.com/in/supanna-viriya-guna-kongoasa-b1895b222"> 
-           <img src= {{ asset('image/logo-1.png') }} width="24" height="24"></a></li>
-          </ul>
+    
 
-          <ul class="list-unstyled d-flex">
+         
+  <div class="collapse bg-dark" id="navbarHeader">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-md-7 py-4">
+          <h4 class="text-white text-start">This my linkedin Profile, my number, and my email address</h4>
+        </div>
+        <div class="col-sm-4 offset-md-1 py-4">
+          <h4 class="text-white">Get in touch with me!</h4>
+          
+          <ul class="list-unstyled md-7">
+          <ul class="list-unstyled d-flex text-white">
+            <p>Linkedin Profile</p>
+             <li class="ml-2"> <a href="http://linkedin.com/in/supanna-viriya-guna-kongoasa-b1895b222"> 
+            <img src= {{ asset('image/logo-1.png') }} width="24" height="24"></a></li>
+           </ul>
+ 
+          <ul class="list-unstyled d-flex text-white">
             <p>supanna.kongoasa@binus.ac.id</p>
            <li class="ml-2">
             <img src= {{ asset('image/logo-outlook.png') }} width="30" height="24">
            </ul>
           </li>
-
-          <ul class="list-unstyled d-flex">
+        
+          <ul class="list-unstyled d-flex text-white">
             <p>081703406974</p>
            <li class="ml-2">
             <img src= {{ asset('image/logo-wa.jpg') }} width="30" height="24">
            </ul>
           </li>
 
-
-
-            </div>
-          </div>
+          </ul>
         </div>
-     
       </div>
+    </div>
+  </div>
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container">
+      <a href="#" class="navbar-brand d-flex align-items-center">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
+        <strong>Contact Me!</strong>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </div>
+    
+      <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
     </footer>
+
+ 
+
 
    
          
