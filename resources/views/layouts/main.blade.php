@@ -29,6 +29,10 @@
             <li class="nav-item">
               <a class="nav-link" href="/Project">Project</a>
             </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/Experience">Organization Experience</a>
+            </li>
         
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -43,10 +47,7 @@
           @yield('content')
       </div>
 
-    <footer>
-    
-
-         
+  <footer>
   <div class="collapse bg-dark" id="navbarHeader">
     <div class="container">
       <div class="row">

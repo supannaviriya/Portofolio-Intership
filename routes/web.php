@@ -25,4 +25,6 @@ Route::get('/Project', function () {
     return view('Project');
 });
 
-
+Route::get('/Experience', function () {
+    return view('Experience');
+});
