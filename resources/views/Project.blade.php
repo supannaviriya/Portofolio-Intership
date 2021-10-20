@@ -126,7 +126,7 @@
                       
                   
                     This is a personal project that I made from a web programming course. 
-                    This project is called Laravel and used for my intership portfolio, 
+                    This project is called Laravel and used for my internship portfolio, 
                     in this project I created a web from Laravel 8 and publish it on Heroku.
 
                    </p>
