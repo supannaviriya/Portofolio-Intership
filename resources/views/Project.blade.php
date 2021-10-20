@@ -3,6 +3,9 @@
 
 @section('content')
 
+
+<div class="container-marketing">
+
 <div class="album py-5 bg-light">
 <div class="container">
     <div class="row gx-2">
@@ -142,7 +145,7 @@
 
 
 
-
+  </div>
 
 
 

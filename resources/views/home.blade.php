@@ -2,6 +2,7 @@
 
 @section('content')
 
+<div class="container-marketing">
 <div class="container col-xxl-8 px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center p-4 p-md-5 mb-4 text-white rounded bg-dark">
       <div class="col-10 col-sm-8 col-lg-6">
@@ -92,6 +93,8 @@
       </div>
     </div>
   </div>
+</div>
+
 </div>
 
 
