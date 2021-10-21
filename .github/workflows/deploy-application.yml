@@ -6,23 +6,24 @@ on:
 
         branches:
 
-        - master
+           - master
 
 jobs: 
 
-create-deployment-artifacts:
+  create-deployment-artifacts:
 
-name: Create deployment artifacts
+    name: Create deployment artifacts
 
-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-steps: 
+    steps: 
 
-- uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-- name: Compile CSS and Javascript
+      - name: Compile CSS and Javascript
 
-  run: 
-        npm install
+        run: 
 
-        npm run prod
+          npm install
+
+          npm run prod
