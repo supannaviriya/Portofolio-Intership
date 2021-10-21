@@ -101,35 +101,26 @@
   </div>
 </div>
 
-<link href="list-group.css" rel="stylesheet">
 
+<div class="row flex-lg-row-reverse p-4 p-mt-2 mb-5 text-white rounded bg-success">
+  <div class="mr-5 d-inline">
+  <img src={{asset('image/logo-binus.png')}} class="mx-lg-5 img-fluid" alt="Bootstrap Themes" width="400" height="400" loading="lazy" >
+  </div>
 
-<div class="list-group list-group-checkable">
-  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios1" value="" checked>
-  <label class="list-group-item py-3" for="listGroupCheckableRadios1">
-    First radio
-    <span class="d-block small opacity-50">With support text underneath to add more detail</span>
-  </label>
+  <div class="d-inline">
+    <h1 class="display-4 fw-bold">Education</h1>
+    <h2 class="col-md-6 fs-4">Jembatan Budaya Junior High School</h2>
+    <p class="col-md-6 fs-5">2013-2016</p>
+    
+    <h2 class="col-md-6 fs-4">Jembatan Budaya Senior High School</h2>
+    <p class="col-md-6 fs-5">Science Major 2016-2019</p>
 
-  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios2" value="">
-  <label class="list-group-item py-3" for="listGroupCheckableRadios2">
-    Second radio
-    <span class="d-block small opacity-50">Some other text goes here</span>
-  </label>
-
-  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios3" value="">
-  <label class="list-group-item py-3" for="listGroupCheckableRadios3">
-    Third radio
-    <span class="d-block small opacity-50">And we end with another snippet of text</span>
-  </label>
-
-  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios4" value="" disabled>
-  <label class="list-group-item py-3" for="listGroupCheckableRadios4">
-    Fourth disabled radio
-    <span class="d-block small opacity-50">This option is disabled</span>
-  </label>
+    <h2 class="col-md-6 fs-4">Bina Nusantara University
+      </h2>
+    <p class="col-md-6 fs-5">Computer Science Major 2019-2023</p>
+  </p>
+  </div>
 </div>
-
 
 
 
