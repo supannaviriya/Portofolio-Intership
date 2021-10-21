@@ -1,12 +1,12 @@
 name: Deploy Application
 
-on;
+on:
 
-    push;
+    push:
 
-        branches;
+        branches:
 
-        -master
+        - master
 
 jobs: 
 
