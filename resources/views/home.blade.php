@@ -12,7 +12,7 @@
         <h1 class="display-5 fw-bold  mb-3">Supanna Viriya Guna Kongoasa</h1>
         <p class="mb-5">Student of School of Computer Science Bina Nusantara University</p>
         <h3 class="display-7 fw-bold lh-1 mt-4"> About Me: </h3>
-        <p class="lead">Currently an active 5th Semester student at
+        <p class="lead text-justify">Currently an active 5th Semester student at
                         the School of Computer Science and Database
                         Streaming at Bina Nusantara University. Active
                         in learning things related to data such as
@@ -20,7 +20,13 @@
                         Mining. Active in the organization to acquire
                         soft skills such as leadership, teamwork,
                         critical thinking, time management.</p>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        
+                        <p class="fw-bold mt-2"> Check out my portfolio presentation:</p>
+                        <a href="https://drive.google.com/file/d/1A-xvdljORSMDWnaMgbNnAS6oK2mPUbGw/view?usp=sharing">
+                        <button type="button" class="btn btn-outline-primary">Portfolio</button></a>
+
+        
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           
         </div>
       </div>
@@ -94,6 +100,40 @@
     </div>
   </div>
 </div>
+
+<link href="app.css" rel="stylesheet">
+
+
+<div class="list-group list-group-checkable">
+  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios1" value="" checked>
+  <label class="list-group-item py-3" for="listGroupCheckableRadios1">
+    First radio
+    <span class="d-block small opacity-50">With support text underneath to add more detail</span>
+  </label>
+
+  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios2" value="">
+  <label class="list-group-item py-3" for="listGroupCheckableRadios2">
+    Second radio
+    <span class="d-block small opacity-50">Some other text goes here</span>
+  </label>
+
+  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios3" value="">
+  <label class="list-group-item py-3" for="listGroupCheckableRadios3">
+    Third radio
+    <span class="d-block small opacity-50">And we end with another snippet of text</span>
+  </label>
+
+  <input class="list-group-item-check" type="radio" name="listGroupCheckableRadios" id="listGroupCheckableRadios4" value="" disabled>
+  <label class="list-group-item py-3" for="listGroupCheckableRadios4">
+    Fourth disabled radio
+    <span class="d-block small opacity-50">This option is disabled</span>
+  </label>
+</div>
+
+
+
+
+
 
 </div>
 
