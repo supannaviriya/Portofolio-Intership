@@ -77,7 +77,7 @@
           <ul class="list-unstyled d-flex text-white">
             <p>081703406974</p>
            <li class="ml-2">
-            <img src= {{ asset('image/logoWA.jpg') }} width="30" height="24">
+            <img src= {{ asset('image/logoWA.png') }} width="30" height="24">
            </ul>
           </li>
 
