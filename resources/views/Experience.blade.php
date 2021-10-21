@@ -16,7 +16,7 @@
 
     <div class="col-md-6 px-0">
       <h1 class="display-4 fw-bold">Organization Experience</h1>
-      <p class="fs-4 lead mt-4">While studying, I was also active in organizing the Dhammavaddhana Buddhist Student Family, which provided many soft skills such as leadership, public speaking, critical thinking.
+      <p class="fs-4 lead mt-4 text-justify">While studying, I was also active in organizing the Dhammavaddhana Buddhist Student Family, which provided many soft skills such as leadership, public speaking, critical thinking.
     </p>
     </div>
   </div>
@@ -31,15 +31,15 @@
       <p class="lead fw-bold">My Job as a Head of Dhamma and Education Division is as follows:</p>
       <ul class="list-unstyled lh-base">
         <ul>
-        <li class="mt-3">Organize all routine activities in the
+        <li class="mt-3 text-justify">Organize all routine activities in the
           Dhamma and Education Division such as
           Chanting, Buddhist Education Class, and
           Dhamma Class.
         </li>
-        <li class="mt-3">Coordinate with all Activists and Staff in
+        <li class="mt-3 text-justify">Coordinate with all Activists and Staff in
           the Dhamma and Education Division.
         </li>
-        <li class="mt-3">
+        <li class="mt-3 text-justify">
           Responsible for all relations related to
           Dhamma and Education Division.
         </li>
@@ -62,11 +62,11 @@
 
       <ul class="list-unstyled lh-base">
         <ul>
-        <li class="mt-3">Assist in managing routine
+        <li class="mt-3 text-justify">Assist in managing routine
           activities in the Dhamma and
           Education Division.
         </li>
-        <li class="mt-3">Actively participates in routine
+        <li class="mt-3 text-justify">Actively participates in routine
           activities in the Dhamma and
           Education Division.
         </li>
@@ -96,7 +96,7 @@
         
         <ul class="list-unstyled lh-base">
         <ul>
-       <li class="mt-3">
+       <li class="mt-3 text-justify">
         My job as an event advisor is to
         supervise and guide the committee
         and is responsible for the success of
@@ -131,7 +131,7 @@
         
         <ul class="list-unstyled lh-base">
         <ul>
-       <li class="mt-3">
+       <li class="mt-3 text-justify">
         My job as an event advisor is to
         supervise and guide the committee
         and is responsible for the success of
@@ -169,7 +169,7 @@
         
         <ul class="list-unstyled lh-base">
         <ul>
-       <li class="mt-3">
+       <li class="mt-3 text-justify">
         My job as an event advisor is to supervise and
         guide the committee and is responsible for
         the success of the event.
@@ -203,7 +203,7 @@
         
         <ul class="list-unstyled lh-base">
         <ul>
-       <li class="mt-3">
+       <li class="mt-3 text-justify">
         My job as an project manager is in
         charge of designing the training
         concept, dividing tasks between all

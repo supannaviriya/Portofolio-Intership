@@ -15,14 +15,14 @@
               <img src={{asset('image/foto-project_mulmed.png')}} width="100%" height="225" >
               </a>
               <div class="card-body">
-                <p class="card-text">This is a 3rd semester project called the Multimedia
+                <p class="card-text text-justify">This is a 3rd semester project called the Multimedia
                   project which was jointly created by my team, we have
                   created a computer shop website using HTML5 from
                   Adobe Animate.
               </p>
                 <div class="d-flex justify-content-between align-items-center">
                  
-                  <small class="text-muted">Project Multimedia</small>
+                  <small class="text-muted fw-bold">Project Multimedia</small>
                 </div>
               </div>
             </div>
@@ -34,7 +34,7 @@
               <img src={{asset('image/logo_sql.png')}} width="100%" height="225"> 
               </a>
               <div class="card-body">
-                <p class="card-text">This is a 3rd semester project called the Database
+                <p class="card-text text-justify">This is a 3rd semester project called the Database
                   System project which was jointly created by my
                   team, we have created database from a study case
                   including the ERD. Software that we used is SQL
@@ -42,7 +42,7 @@
                </p>
                 <div class="d-flex justify-content-between align-items-center">
                   
-                  <small class="text-muted">Project Database System</small>
+                  <small class="text-muted fw-bold">Project Database System</small>
                 </div>
               </div>
             </div>
@@ -54,14 +54,14 @@
                 <img src={{asset('image/logo-projectHCI.png')}} width="100%" height="225" >
                 </a>
                 <div class="card-body">
-                  <p class="card-text">This is a 4th semester project called the Human and
+                  <p class="card-text text-justify">This is a 4th semester project called the Human and
                     Computer Interaction project which was jointly
                     created by my team, we have created a website
                     using HTML5, CSS, and JavaScript.
                 </p>
                   <div class="d-flex justify-content-between align-items-center">
                    
-                    <small class="text-muted">Project Human and Computer Interaction</small>
+                    <small class="text-muted fw-bold">Project Human and Computer Interaction</small>
                   </div>
                 </div>
               </div>
@@ -81,7 +81,7 @@
       <img src={{asset('image/foto-research.png')}} width="100%" height="225" >
       </a>
       <div class="card-body">
-        <p class="card-text">This is a 4th Semester International Paper called the
+        <p class="card-text text-justify">This is a 4th Semester International Paper called the
             Research Topic in Computer Science paper which
             was jointly created by my team, In this paper, we
             raise the topic "The Use of Big Data in Food Safety"
@@ -90,7 +90,7 @@
       </p>
         <div class="d-flex justify-content-between align-items-center">
          
-          <small class="text-muted">Research Topic in Computer Science Paper</small>
+          <small class="text-muted fw-bold">Research Topic in Computer Science Paper</small>
         </div>
       </div>
     </div>
@@ -102,14 +102,14 @@
                   <img src={{asset('image/fotoR.jpg')}} width="100%" height="225"> 
                   </a>
                   <div class="card-body">
-                    <p class="card-text">
+                    <p class="card-text text-justify">
                         This is my personal project called data visualization. 
                         In this project I use R languages and Rstudio  ​​to visualize 
                         data with barcharts, barplots, histograms, and pie charts.
                    </p>
                     <div class="d-flex justify-content-between align-items-center">
                       
-                      <small class="text-muted">Project Data visualization using R</small>
+                      <small class="text-muted fw-bold">Project Data visualization using R</small>
                     </div>
                   </div>
                 </div>
@@ -122,7 +122,7 @@
                   <img src={{asset('image/foto-web.png')}} width="100%" height="225"> 
                   
                   <div class="card-body">
-                    <p class="card-text">
+                    <p class="card-text text-justify">
                       
                   
                     This is a personal project that I made from a web programming course. 
@@ -132,7 +132,7 @@
                    </p>
                     <div class="d-flex justify-content-between align-items-center">
                       
-                      <small class="text-muted">Project Laravel for Portfolio</small>
+                      <small class="text-muted fw-bold">Project Laravel for Portfolio</small>
                     </div>
                   </div>
                 </div>
